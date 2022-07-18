@@ -1,0 +1,2 @@
+# C file compilation
+gcc -o program yourcode.c && ./program
