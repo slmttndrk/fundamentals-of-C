@@ -1,2 +1,6 @@
 # C file compilation
-gcc -o program yourcode.c && ./program
+gcc program.c -o program  && ./program
+
+# updating applications on our system
+sudo apt update
+
