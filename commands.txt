@@ -4,3 +4,6 @@ gcc program.c -o program  && ./program
 # updating applications on our system
 sudo apt update
 
+# see the memory layout of the program
+size a.out
+
